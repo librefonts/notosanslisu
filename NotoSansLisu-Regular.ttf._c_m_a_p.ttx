@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xa4d0" name="uniA4D0"/><!-- LISU LETTER BA -->
+      <map code="0xa4d1" name="uniA4D1"/><!-- LISU LETTER PA -->
+      <map code="0xa4d2" name="uniA4D2"/><!-- LISU LETTER PHA -->
+      <map code="0xa4d3" name="uniA4D3"/><!-- LISU LETTER DA -->
+      <map code="0xa4d4" name="uniA4D4"/><!-- LISU LETTER TA -->
+      <map code="0xa4d5" name="uniA4D5"/><!-- LISU LETTER THA -->
+      <map code="0xa4d6" name="uniA4D6"/><!-- LISU LETTER GA -->
+      <map code="0xa4d7" name="uniA4D7"/><!-- LISU LETTER KA -->
+      <map code="0xa4d8" name="uniA4D8"/><!-- LISU LETTER KHA -->
+      <map code="0xa4d9" name="uniA4D9"/><!-- LISU LETTER JA -->
+      <map code="0xa4da" name="uniA4DA"/><!-- LISU LETTER CA -->
+      <map code="0xa4db" name="uniA4DB"/><!-- LISU LETTER CHA -->
+      <map code="0xa4dc" name="uniA4DC"/><!-- LISU LETTER DZA -->
+      <map code="0xa4dd" name="uniA4DD"/><!-- LISU LETTER TSA -->
+      <map code="0xa4de" name="uniA4DE"/><!-- LISU LETTER TSHA -->
+      <map code="0xa4df" name="uniA4DF"/><!-- LISU LETTER MA -->
+      <map code="0xa4e0" name="uniA4E0"/><!-- LISU LETTER NA -->
+      <map code="0xa4e1" name="uniA4E1"/><!-- LISU LETTER LA -->
+      <map code="0xa4e2" name="uniA4E2"/><!-- LISU LETTER SA -->
+      <map code="0xa4e3" name="uniA4E3"/><!-- LISU LETTER ZHA -->
+      <map code="0xa4e4" name="uniA4E4"/><!-- LISU LETTER ZA -->
+      <map code="0xa4e5" name="uniA4E5"/><!-- LISU LETTER NGA -->
+      <map code="0xa4e6" name="uniA4E6"/><!-- LISU LETTER HA -->
+      <map code="0xa4e7" name="uniA4E7"/><!-- LISU LETTER XA -->
+      <map code="0xa4e8" name="uniA4E8"/><!-- LISU LETTER HHA -->
+      <map code="0xa4e9" name="uniA4E9"/><!-- LISU LETTER FA -->
+      <map code="0xa4ea" name="uniA4EA"/><!-- LISU LETTER WA -->
+      <map code="0xa4eb" name="uniA4EB"/><!-- LISU LETTER SHA -->
+      <map code="0xa4ec" name="uniA4EC"/><!-- LISU LETTER YA -->
+      <map code="0xa4ed" name="uniA4ED"/><!-- LISU LETTER GHA -->
+      <map code="0xa4ee" name="uniA4EE"/><!-- LISU LETTER A -->
+      <map code="0xa4ef" name="uniA4EF"/><!-- LISU LETTER AE -->
+      <map code="0xa4f0" name="uniA4F0"/><!-- LISU LETTER E -->
+      <map code="0xa4f1" name="uniA4F1"/><!-- LISU LETTER EU -->
+      <map code="0xa4f2" name="uniA4F2"/><!-- LISU LETTER I -->
+      <map code="0xa4f3" name="uniA4F3"/><!-- LISU LETTER O -->
+      <map code="0xa4f4" name="uniA4F4"/><!-- LISU LETTER U -->
+      <map code="0xa4f5" name="uniA4F5"/><!-- LISU LETTER UE -->
+      <map code="0xa4f6" name="uniA4F6"/><!-- LISU LETTER UH -->
+      <map code="0xa4f7" name="uniA4F7"/><!-- LISU LETTER OE -->
+      <map code="0xa4f8" name="uniA4F8"/><!-- LISU LETTER TONE MYA TI -->
+      <map code="0xa4f9" name="uniA4F9"/><!-- LISU LETTER TONE NA PO -->
+      <map code="0xa4fa" name="uniA4FA"/><!-- LISU LETTER TONE MYA CYA -->
+      <map code="0xa4fb" name="uniA4FB"/><!-- LISU LETTER TONE MYA BO -->
+      <map code="0xa4fc" name="uniA4FC"/><!-- LISU LETTER TONE MYA NA -->
+      <map code="0xa4fd" name="uniA4FD"/><!-- LISU LETTER TONE MYA JEU -->
+      <map code="0xa4fe" name="uniA4FE"/><!-- LISU PUNCTUATION COMMA -->
+      <map code="0xa4ff" name="uniA4FF"/><!-- LISU PUNCTUATION FULL STOP -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>

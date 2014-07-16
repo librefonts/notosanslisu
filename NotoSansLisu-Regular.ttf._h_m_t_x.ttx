@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <hmtx>
+    <mtx name=".notdef" width="1024" lsb="102"/>
+    <mtx name="uni000D" width="1044" lsb="0"/>
+    <mtx name="uni00A0" width="532" lsb="0"/>
+    <mtx name="uniA4D0" width="1331" lsb="199"/>
+    <mtx name="uniA4D1" width="1239" lsb="199"/>
+    <mtx name="uniA4D2" width="1239" lsb="104"/>
+    <mtx name="uniA4D3" width="1495" lsb="199"/>
+    <mtx name="uniA4D4" width="1139" lsb="20"/>
+    <mtx name="uniA4D5" width="1100" lsb="20"/>
+    <mtx name="uniA4D6" width="1491" lsb="125"/>
+    <mtx name="uniA4D7" width="1268" lsb="199"/>
+    <mtx name="uniA4D8" width="1268" lsb="0"/>
+    <mtx name="uniA4D9" width="759" lsb="40"/>
+    <mtx name="uniA4DA" width="1294" lsb="125"/>
+    <mtx name="uniA4DB" width="1294" lsb="63"/>
+    <mtx name="uniA4DC" width="1171" lsb="78"/>
+    <mtx name="uniA4DD" width="1063" lsb="199"/>
+    <mtx name="uniA4DE" width="1063" lsb="47"/>
+    <mtx name="uniA4DF" width="1858" lsb="199"/>
+    <mtx name="uniA4E0" width="1556" lsb="199"/>
+    <mtx name="uniA4E1" width="1073" lsb="199"/>
+    <mtx name="uniA4E2" width="1124" lsb="104"/>
+    <mtx name="uniA4E3" width="1274" lsb="199"/>
+    <mtx name="uniA4E4" width="1274" lsb="31"/>
+    <mtx name="uniA4E5" width="1229" lsb="0"/>
+    <mtx name="uniA4E6" width="1229" lsb="0"/>
+    <mtx name="uniA4E7" width="1518" lsb="199"/>
+    <mtx name="uniA4E8" width="1491" lsb="152"/>
+    <mtx name="uniA4E9" width="759" lsb="186"/>
+    <mtx name="uniA4EA" width="1905" lsb="25"/>
+    <mtx name="uniA4EB" width="1200" lsb="8"/>
+    <mtx name="uniA4EC" width="1159" lsb="0"/>
+    <mtx name="uniA4ED" width="1331" lsb="110"/>
+    <mtx name="uniA4EE" width="1309" lsb="0"/>
+    <mtx name="uniA4EF" width="1307" lsb="0"/>
+    <mtx name="uniA4F0" width="1139" lsb="199"/>
+    <mtx name="uniA4F1" width="1139" lsb="123"/>
+    <mtx name="uniA4F2" width="584" lsb="200"/>
+    <mtx name="uniA4F3" width="1599" lsb="125"/>
+    <mtx name="uniA4F4" width="1497" lsb="184"/>
+    <mtx name="uniA4F5" width="1497" lsb="184"/>
+    <mtx name="uniA4F6" width="1073" lsb="51"/>
+    <mtx name="uniA4F7" width="1495" lsb="125"/>
+    <mtx name="uniA4F8" width="554" lsb="150"/>
+    <mtx name="uniA4F9" width="554" lsb="130"/>
+    <mtx name="uniA4FA" width="944" lsb="150"/>
+    <mtx name="uniA4FB" width="944" lsb="150"/>
+    <mtx name="uniA4FC" width="554" lsb="130"/>
+    <mtx name="uniA4FD" width="554" lsb="150"/>
+    <mtx name="uniA4FE" width="1296" lsb="150"/>
+    <mtx name="uniA4FF" width="1118" lsb="150"/>
+    <mtx name="uniFEFF" width="0" lsb="0"/>
+  </hmtx>
+
+</ttFont>

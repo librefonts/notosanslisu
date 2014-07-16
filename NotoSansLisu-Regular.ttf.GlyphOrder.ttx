@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GlyphOrder>
+    <!-- The 'id' attribute is only for humans; it is ignored when parsed. -->
+    <GlyphID id="0" name=".notdef"/>
+    <GlyphID id="1" name="uniFEFF"/>
+    <GlyphID id="2" name="uni000D"/>
+    <GlyphID id="3" name="uni00A0"/>
+    <GlyphID id="4" name="uniA4D0"/>
+    <GlyphID id="5" name="uniA4D1"/>
+    <GlyphID id="6" name="uniA4D2"/>
+    <GlyphID id="7" name="uniA4D3"/>
+    <GlyphID id="8" name="uniA4D4"/>
+    <GlyphID id="9" name="uniA4D5"/>
+    <GlyphID id="10" name="uniA4D6"/>
+    <GlyphID id="11" name="uniA4D7"/>
+    <GlyphID id="12" name="uniA4D8"/>
+    <GlyphID id="13" name="uniA4D9"/>
+    <GlyphID id="14" name="uniA4DA"/>
+    <GlyphID id="15" name="uniA4DB"/>
+    <GlyphID id="16" name="uniA4DC"/>
+    <GlyphID id="17" name="uniA4DD"/>
+    <GlyphID id="18" name="uniA4DE"/>
+    <GlyphID id="19" name="uniA4DF"/>
+    <GlyphID id="20" name="uniA4E0"/>
+    <GlyphID id="21" name="uniA4E1"/>
+    <GlyphID id="22" name="uniA4E2"/>
+    <GlyphID id="23" name="uniA4E3"/>
+    <GlyphID id="24" name="uniA4E4"/>
+    <GlyphID id="25" name="uniA4E5"/>
+    <GlyphID id="26" name="uniA4E6"/>
+    <GlyphID id="27" name="uniA4E7"/>
+    <GlyphID id="28" name="uniA4E8"/>
+    <GlyphID id="29" name="uniA4E9"/>
+    <GlyphID id="30" name="uniA4EA"/>
+    <GlyphID id="31" name="uniA4EB"/>
+    <GlyphID id="32" name="uniA4EC"/>
+    <GlyphID id="33" name="uniA4ED"/>
+    <GlyphID id="34" name="uniA4EE"/>
+    <GlyphID id="35" name="uniA4EF"/>
+    <GlyphID id="36" name="uniA4F0"/>
+    <GlyphID id="37" name="uniA4F1"/>
+    <GlyphID id="38" name="uniA4F2"/>
+    <GlyphID id="39" name="uniA4F3"/>
+    <GlyphID id="40" name="uniA4F4"/>
+    <GlyphID id="41" name="uniA4F5"/>
+    <GlyphID id="42" name="uniA4F6"/>
+    <GlyphID id="43" name="uniA4F7"/>
+    <GlyphID id="44" name="uniA4F8"/>
+    <GlyphID id="45" name="uniA4F9"/>
+    <GlyphID id="46" name="uniA4FA"/>
+    <GlyphID id="47" name="uniA4FB"/>
+    <GlyphID id="48" name="uniA4FC"/>
+    <GlyphID id="49" name="uniA4FD"/>
+    <GlyphID id="50" name="uniA4FE"/>
+    <GlyphID id="51" name="uniA4FF"/>
+  </GlyphOrder>
+
+</ttFont>

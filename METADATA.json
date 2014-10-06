@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Lisu",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 5283,
+  "fonts": [
+    {
+      "name": "Noto Sans Lisu",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansLisu-Regular.ttf",
+      "postScriptName": "NotoSansLisu",
+      "fullName": "Noto Sans Lisu",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
